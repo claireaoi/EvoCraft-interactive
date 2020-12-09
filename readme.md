@@ -7,7 +7,10 @@
 ### Evolve intearctively Minecraft entities encoded as neural networks
 ###### Disclamer: This is an alpha version, expect further changes.
 </div>
- 
+<br/>
+<p align="center">
+  <img src="example.gif">
+</p>  
 
 ## Install
 
